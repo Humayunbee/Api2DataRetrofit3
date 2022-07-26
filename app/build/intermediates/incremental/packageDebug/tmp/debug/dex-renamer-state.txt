@@ -1,0 +1,4 @@
+#Mon Jul 25 15:30:52 BDT 2022
+base.0=H\:\\APP\\Api2DataRetrofit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

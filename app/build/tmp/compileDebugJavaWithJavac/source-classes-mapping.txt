@@ -1,0 +1,18 @@
+com/bytesoft/api2dataretrofit2/Model.java
+ com.bytesoft.api2dataretrofit2.Model
+com/bytesoft/api2dataretrofit2/ListDataDetailsAdapter.java
+ com.bytesoft.api2dataretrofit2.ListDataDetailsAdapter
+ com.bytesoft.api2dataretrofit2.ListDataDetailsAdapter$1
+com/bytesoft/api2dataretrofit2/Network/Retrofitclient.java
+ com.bytesoft.api2dataretrofit2.Network.Retrofitclient
+com/bytesoft/api2dataretrofit2/MainActivity.java
+ com.bytesoft.api2dataretrofit2.MainActivity
+ com.bytesoft.api2dataretrofit2.MainActivity$1
+com/bytesoft/api2dataretrofit2/Adapter.java
+ com.bytesoft.api2dataretrofit2.Adapter
+ com.bytesoft.api2dataretrofit2.Adapter$1
+ com.bytesoft.api2dataretrofit2.Adapter$ViewHolders
+com/bytesoft/api2dataretrofit2/Network/Methods.java
+ com.bytesoft.api2dataretrofit2.Network.Methods
+com/bytesoft/api2dataretrofit2/BuildConfig.java
+ com.bytesoft.api2dataretrofit2.BuildConfig
